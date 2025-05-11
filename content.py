@@ -1,0 +1,1 @@
+content1 = "Dear Parents, \n\n I am pleased to inform you that your child has arrived at school safely and is settling in for the day.Rest assured that their well-being is our top priority, and we will keep you updated if any issues arise.\n\n Thank you for your trust and support."
